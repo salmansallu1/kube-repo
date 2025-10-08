@@ -5,3 +5,4 @@ metadata:
 data:
   mongo-url: mongo-service
   mongo-username : sallu
+  mongo-userpassword : qwerty
