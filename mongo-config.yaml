@@ -6,3 +6,4 @@ data:
   mongo-url: mongo-service
   mongo-username : sallu
   mongo-userpassword : qwerty
+  mongo-url : "https://salmansallu12"
